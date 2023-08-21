@@ -11,6 +11,7 @@
         margin: 1rem; 
     }
     h3 {
+        color: $cor-primaria;
         text-align: center;
         font-size: $tamanho-do-texto / 1.2;
         margin-bottom: 80px;
@@ -32,7 +33,7 @@
             p {
               font-size: $tamanho-do-texto / 3;
               font-weight: 300;
-              color: $cor-primaria;
+              color: $cor-secundaria;
               line-height: 1.25rem;
             }
             .img-container {

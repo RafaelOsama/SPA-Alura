@@ -56,6 +56,7 @@ nav ul li a:hover {
   margin: 1rem;
 }
 #servicos h3 {
+  color: #6527BE;
   text-align: center;
   font-size: 2.5rem;
   margin-bottom: 80px;
@@ -79,7 +80,7 @@ nav ul li a:hover {
 #servicos .cards .card p {
   font-size: 1rem;
   font-weight: 300;
-  color: #6527BE;
+  color: #9681EB;
   line-height: 1.25rem;
 }
 #servicos .cards .card .img-container {
@@ -88,4 +89,17 @@ nav ul li a:hover {
 }
 #servicos .cards .card .img-container img {
   max-width: 100%;
+}
+
+#cupom {
+  background-color: #A7EDE7;
+  padding: 4rem;
+  text-align: center;
+}
+#cupom .texto {
+  color: #6527BE;
+}
+#cupom .texto h2 {
+  margin: 2rem;
+  font-size: 1.7647058824rem;
 }/*# sourceMappingURL=style.css.map */
